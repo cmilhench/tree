@@ -26,7 +26,7 @@
 
 /* Begin PBXFileReference section */
 		3BE2F29E17FB1EB500DA6E10 /* kata */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = kata; sourceTree = BUILT_PRODUCTS_DIR; };
-		3BE2F2A117FB1EB500DA6E10 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		3BE2F2A117FB1EB500DA6E10 /* main.c */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; tabWidth = 2; };
 		3BE2F2A317FB1EB500DA6E10 /* kata.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = kata.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
